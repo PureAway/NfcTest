@@ -1,0 +1,15 @@
+<resources>
+    <string name="message_beaming_complete">使用Android Beam传输完成</string>
+    <string name="message_nfc_complete">使用Android Nfc传输完成</string>
+    <string name="hint_your_message">请输入你要发送的文本</string>
+    <string name="label_your_message">NFC Beam发送文本(需要在系统设置中打开Beam开关)</string>
+    <string name="label_receive_message">收到NFC Beam文本</string>
+    <string name="title_btn_set">设置文本</string>
+    <string name="hello">读写NFC程序！</string>
+    <string name="app_name">NFC Demo</string>
+    <string name="write_to_tag">写入数据</string>
+    <string name="read_to_tag">读取数据</string>
+    <string name="default_note_text">请输入要写入数据！</string>
+    <string name="service_name">仿真卡服务</string>
+    <string name="card_title">仿真卡</string>
+</resources>
